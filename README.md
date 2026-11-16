@@ -3,7 +3,8 @@
 このリポジトリから，自分の **`ユーザー名.github.io`** リポジトリを作ると，`https://ユーザー名.github.io/` に自分のサイトを公開できます（GitHub Pages）．
 
 > **このリポジトリは，テンプレート（ひな形）です．**
-> 直接 clone するのではなく，右上の **Use this template** → **Create a new repository** で，自分のアカウントに `ユーザー名.github.io` リポジトリを作ってから使います．
+> 直接 clone するのではなく，ファイルの一覧の上にある **Use this template** → **Create a new repository** で，自分のアカウントに `ユーザー名.github.io` リポジトリを作ってから使います．
+> ボタンが見つからないときは，GitHubにログインしているか確認するか，[こちらのリンク](https://github.com/tomohitoy/oss-template-2026/generate)から作成画面を開いてください．
 > くわしい手順は，[第7回の資料](https://github.com/tomohitoy/oss-practice-2026/blob/main-07/chap07/README.md)を見てください．
 >
 > （テンプレートから作った人へ：この README は，自分のサイトの説明に書きかえてかまいません）
